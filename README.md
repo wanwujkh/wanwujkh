@@ -1,5 +1,14 @@
 ## Hi there 👋, I'm wanwujkh.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Shining Days Blingbling✨&center=true&size=26&color=FF69B4">
+</p>
+
+🎓 Xidian University 
+
+
+
+
 <!--
 **wanwujkh/wanwujkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
