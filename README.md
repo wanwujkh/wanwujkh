@@ -1,8 +1,14 @@
 ## Hi there 👋, I'm wanwujkh.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Shining Days Blingbling✨&center=true&size=26&color=FF69B4">
-</p>
+<div align="center">
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=600&color=F7C331&width=700&lines=✨Shining+Days+Blingbling✨;✨Glow+Every+Moment✨;✨Create+Something+Great✨)](https://git.io/typing-svg)
+
+<br/>
+
+</div>
 
 🎓 Xidian University 
 
